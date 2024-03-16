@@ -1,0 +1,2 @@
+﻿  training_sql.cpp
+C:\Users\GAB\Desktop\Workspace\C++ Workspace\training_sql\training_sql.cpp(2,10): error C1083: Non è possibile aprire il file inclusione: 'mysql_connection.h': No such file or directory

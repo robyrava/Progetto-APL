@@ -1,0 +1,32 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: la directory intermedia (x64\Release\) contiene file condivisi da un altro progetto (training_sql.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  handler.cpp
+  main.cpp
+  utilities.cpp
+     Creazione della libreria C:\Users\rober\OneDrive\Desktop\server statistiche v4\x64\Release\server_statistiche.lib e dell'oggetto C:\Users\rober\OneDrive\Desktop\server statistiche v4\x64\Release\server_statistiche.exp
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 4505 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_driver.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_connection.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_uri.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_warning.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_statement.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_debug.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_client_api.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_util.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultbind.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultset.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: impossibile trovare il PDB '' con 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' o in ''; oggetto collegato senza informazioni di debug
+  training_sql.vcxproj -> C:\Users\rober\OneDrive\Desktop\server statistiche v4\x64\Release\server_statistiche.exe

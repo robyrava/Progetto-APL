@@ -1,0 +1,2 @@
+C:\Users\GAB\Desktop\Workspace\C++ Workspace\training_sql\x64\Release\training_sql.exe
+C:\Users\rober\OneDrive\Desktop\server statistiche v4\x64\Release\server_statistiche.exe
